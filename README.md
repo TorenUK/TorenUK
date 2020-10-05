@@ -1,6 +1,6 @@
 ## Here's what I'm currently working on... 
 
-### CraftyBean - A full-stack build for a small ecommerce business.
+### CraftyBean - A full-stack build for an ecommerce business.
 
 ### what I'm using...
 #### ReactJS - React Context API - Node & ExpressJs - Firebase.
