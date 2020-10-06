@@ -7,7 +7,6 @@
 
 #### take a look at the unfinished build here...
 https://crafty-bean-v2.web.app/
-
 to test a card payment use card number: 4242 4242 4242 4242
 
 ### TorenUK - A Full-Stack build for my personal freelance company.
