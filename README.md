@@ -13,4 +13,4 @@ to test a card payment use card number: 4242 4242 4242 4242
 ### TorenUK - A Full-Stack build for my personal freelance company.
 
 ### what I'm using...
-#### Vanilla JS - Node & ExpressJS - MongoDB & Mongoose. 
+#### ReactJS - Node & ExpressJS - MongoDB & Mongoose. 
