@@ -11,6 +11,7 @@ https://crafty-bean-v2.web.app/
 to test a card payment use card number: 4242 4242 4242 4242
 
 ### The Big Raffle - Full-Stack build - focusing on React-Redux & Back-End integration.
+#### Buy tickets for the chance to win luxury items and cash prizes.
 
 #### what I'm using:
 #### ReactJS & Redux - Node & ExpressJS - MongoDB & Mongoose.
