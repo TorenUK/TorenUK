@@ -8,6 +8,8 @@
 
 
 ### CraftyBean - A fully responsive, Full-Stack build for a local ecommerce business.
+![alt text](https://toren.uk/craftybean-ss.png)
+
 
 #### Stack:
 #### ReactJS - React Context API - Node & ExpressJS - Firebase.
@@ -18,6 +20,7 @@ https://crafty-bean-v2.web.app/
 to test a card payment use card number: 4242 4242 4242 4242
 
 ### The Big Raffle - Full-Stack build - focusing on React-Redux & Back-End integration.
+![alt text](https://toren.uk/tbg-ss.png)
 #### Buy tickets for the chance to win luxury items and cash prizes.
 
 #### Stack:
