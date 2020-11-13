@@ -1,6 +1,6 @@
 ## What I'm currently working on... 
 
-### BulkHangers UK - A fully responsive, Full-Stack build for a company selling hangers.
+### Bulk Hangers UK - A fully responsive, Full-Stack build for a company selling hangers.
 
 #### Stack:
 #### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
