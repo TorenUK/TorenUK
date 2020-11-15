@@ -26,6 +26,8 @@ to test a card payment use card number: 4242 4242 4242 4242
 #### Stack:
 #### ReactJS & Redux - Node & ExpressJS - MongoDB & Mongoose.
 
+#### take a look at the unfinished build here: 
+https://tbr-prod.web.app/
 
 ### TorenUK - A Full-Stack build for my personal freelance company.
 
