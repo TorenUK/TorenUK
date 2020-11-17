@@ -1,7 +1,7 @@
 ## What I'm currently working on... 
 
 ### Your Food App - A fully responsive, Full-Stack build for a local takeaway food service.
-Users are able to order food and track the progress of their order through the site
+#### Users are able to order food and track the progress of their order through the site.
 
 #### Stack:
 #### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
@@ -10,7 +10,7 @@ Users are able to order food and track the progress of their order through the s
 
 ### CraftyBean - A fully responsive, Full-Stack build for a local ecommerce business.
 ![alt text](https://toren.uk/craftybean-ss.png)
-
+#### users are able to purchase a range of customisable gifts.
 
 #### Stack:
 #### ReactJS - React Context API - Node & ExpressJS - Firebase.
