@@ -1,6 +1,7 @@
 ## What I'm currently working on... 
 
-### Bulk Hangers UK - A fully responsive, Full-Stack build for a company selling hangers.
+### Your Food App - A fully responsive, Full-Stack build for a local takeaway food service.
+Users are able to order food and track the progress of their order through the site
 
 #### Stack:
 #### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
@@ -29,10 +30,11 @@ to test a card payment use card number: 4242 4242 4242 4242
 #### take a look at the unfinished build here: 
 https://tbr-prod.web.app/
 
-### TorenUK - A Full-Stack build for my personal freelance company.
+
+### Bulk Hangers UK - A fully responsive, Full-Stack build for a company selling hangers.
 
 #### Stack:
-#### ReactJS - Node & ExpressJS - MongoDB & Mongoose. 
+#### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
 
 ### Good Faith Clothing - A Full-Stack build for a sustainable clothing brand.
 
