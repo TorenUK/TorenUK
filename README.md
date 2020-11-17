@@ -2,6 +2,7 @@
 
 ### Your Food App - A fully responsive, Full-Stack build for a local takeaway food service.
 #### Users are able to order food and track the progress of their order through the site.
+#### The site will feature an admin panel in order for the business to update their menu and customer delivery status.
 
 #### Stack:
 #### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
