@@ -31,6 +31,8 @@ to test a card payment use card number: 4242 4242 4242 4242
 #### take a look at the unfinished build here: 
 https://tbr-prod.web.app/
 
+to test a card payment use card number: 4242 4242 4242 4242
+
 
 ### Bulk Hangers UK - A fully responsive, Full-Stack build for a company selling hangers.
 
