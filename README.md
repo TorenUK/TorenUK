@@ -1,4 +1,4 @@
-## What I'm currently working on... 
+## What I'm currently working on:
 
 ### Your Food App - A fully responsive, Full-Stack build for a local takeaway food service.
 #### Users are able to order food and track the progress of their order through the site.
