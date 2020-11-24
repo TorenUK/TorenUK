@@ -43,3 +43,7 @@ to test a card payment use card number: 4242 4242 4242 4242
 
 #### Stack:
 #### ReactJS - Node & ExpressJS - MongoDB & Mongoose.
+
+## What I'm currently learning: 
+### Typescript 
+### Styled Components
