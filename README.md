@@ -8,6 +8,9 @@
 #### Stack:
 #### ReactJS - Redux - Node & ExpressJS - MongoDB & Mongoose.
 
+#### Feel free to create an account and test a payment using test card number: 4242 4242 4242 4242
+
+
 
 #### take a look at the unfinished build here:
 https://your-food-app.web.app/
