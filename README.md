@@ -10,9 +10,7 @@
 
 #### Feel free to create an account and test a payment using test card number: 4242 4242 4242 4242
 
-
-
-#### take a look at the unfinished build here:
+#### take a look at the work in progress here:
 https://your-food-app.web.app/
 
 
@@ -23,7 +21,7 @@ https://your-food-app.web.app/
 #### Stack:
 #### ReactJS - React Context API - Node & ExpressJS - Firebase.
 
-#### take a look at the work in progress here:
+#### take a look at the unfinished build here:
 https://crafty-bean-v2.web.app/
 
 to test a card payment use card number: 4242 4242 4242 4242
