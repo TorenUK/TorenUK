@@ -1,4 +1,4 @@
-## What I'm currently working on:
+## What I'm working on:
 
 ### Your Food App - A fully responsive, Full-Stack build for a local takeaway food service.
 ![alt text](https://toren.uk/your-food-app-ss.png)
