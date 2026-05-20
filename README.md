@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TorenUK&layout=compact)](https://github.com/TorenUK/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TorenUK)](https://github.com/anuraghazra/github-readme-stats)
